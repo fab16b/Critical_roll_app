@@ -3,4 +3,27 @@
     <string name="critical_d20">Critical Roll</string>
     <string name="critical_hit">Critical Hit</string>
     <string name="critical_miss">Critical Miss</string>
+    <string name="saved_button_press_count_key">Dice1</string>
+    <string name="times">times</string>
+    <string name="shared_prefs_key">myDice</string>
+    <string name="dice1_string">Dice 1 rolled </string>
+    <string name="dice2_string">Dice 2 rolled </string>
+    <string name="dice3_string">Dice 3 rolled </string>
+    <string name="dice4_string">Dice 4 rolled </string>
+    <string name="dice5_string">Dice 5 rolled</string>
+    <string name="dice6_string">Dice 6 rolled </string>
+    <string name="dice7_string">Dice 7 rolled </string>
+    <string name="dice8_string">Dice 8 rolled </string>
+    <string name="dice9_string">Dice 9 rolled</string>
+    <string name="dice10_string">Dice 10 rolled </string>
+    <string name="dice11_string">Dice 11 rolled </string>
+    <string name="dice12_string">Dice 12 rolled </string>
+    <string name="dice13_string">Dice 13 rolled </string>
+    <string name="dice14_string">Dice 14 rolled </string>
+    <string name="dice15_string">Dice 15 rolled </string>
+    <string name="dice16_string">Dice 16 rolled </string>
+    <string name="dice17_string">Dice 17 rolled </string>
+    <string name="dice18_string">Dice 18 rolled </string>
+    <string name="dice19_string">Dice 19 rolled </string>
+    <string name="dice20_string">Dice 20 rolled </string>
 </resources>
